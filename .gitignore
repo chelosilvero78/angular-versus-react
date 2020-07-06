@@ -1,0 +1,5 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/angular/angularapp/node_modules
+/react/reactapp/node_modules
